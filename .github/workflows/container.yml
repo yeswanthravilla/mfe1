@@ -6,7 +6,7 @@ on:
     branches:
      - master
     paths:
-      - './packages1/container/**'
+      - "packages1/container/**"
 
 
 defaults:
