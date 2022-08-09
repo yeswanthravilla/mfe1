@@ -1,15 +1,15 @@
 {
   "name": "marketing",
   "version": "1.0.0",
-    "scripts": {
+  "scripts": {
     "start": "webpack serve --config config/webpack.dev.js",
     "build": "webpack  --config config/webpack.prod.js"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
